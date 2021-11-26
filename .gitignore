@@ -1,0 +1,7 @@
+node_modules/
+env/
+__pycache__/
+.vscode/settings.json
+server/storage/
+server/db.sqlite3
+server/api/migrations
