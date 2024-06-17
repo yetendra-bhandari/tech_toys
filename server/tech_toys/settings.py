@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'corsheaders',
-    'ariadne.contrib.django',
+    'ariadne_django',
     'api',
     'main'
 ]

@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from ariadne.contrib.django.views import GraphQLView
+from ariadne_django.views import GraphQLView
 from api.schema import schema
 
 urlpatterns = [
