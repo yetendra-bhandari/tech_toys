@@ -28,6 +28,7 @@
     "@vue/cli-plugin-router": "~4.4.0",
     "@vue/cli-plugin-vuex": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
+    "@vue/runtime-dom": "^3.4.29",
     "postcss-loader": "^3.0.0",
     "vue-template-compiler": "^2.6.11"
   }
