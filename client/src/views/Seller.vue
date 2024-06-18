@@ -106,8 +106,7 @@
           </div>
         </div>
         <h2 v-else class="mt-2">
-          You have not placed any orders yet,
-          <router-link :to="{ name: 'Home' }" class="underline" title="TechToys">continue shopping</router-link>
+          You do not have any pending orders.
         </h2>
       </section>
     </template>
